@@ -55,3 +55,6 @@ console.log("Updated cart:", updatedCart);
 console.log("Total:", total);
 
 */
+
+
+
